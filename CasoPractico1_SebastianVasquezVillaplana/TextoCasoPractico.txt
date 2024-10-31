@@ -1,0 +1,16 @@
+Productos disponibles:
+1. Arroz - 1000 colones
+2. Papa - 1350 colones
+3. Frijoles - 900 colones
+4. Agua - 750 colones
+
+Clientes que llegaron:
+1. Ariel - ID: 100001 - Edad: 32
+2. Lorena - ID: 200002 - Edad: 55
+3. Ricardo - ID: 3000003 - Edad: 58
+4. Valeria - ID: 400004 - Edad: 27
+
+Trabajadores:
+1. Sebastián - ID: 1001 - Edad: 27 - Sueldo: 250000 - Rol: Cajero
+2. Joaquín - ID: 2002 - Edad: 17 - Sueldo: 310000 - Rol: Acomodador
+3. Saul - ID: 3003 - Edad: 34 - Sueldo: 250000 - Rol: Cajero
